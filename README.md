@@ -1,2 +1,2 @@
 # EDSGN-561-template
-Project template for EDSGN 561
+A short description of your project goes here. You should also refer people to your [site]().
