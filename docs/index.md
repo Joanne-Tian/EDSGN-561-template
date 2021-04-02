@@ -1,16 +1,14 @@
-# BPFN (Big Fancy Project Name)
-
-## BFPN Helps Us Do Things
+# BFPN Helps Us Do Things
 asdfasdfasdf
 
-## Methodology
+# Methodology
 BPFN uses algorithms and data.
 
-## Results
+# Results
 Some really cool examples of what BPFN can do include the following:
 
 
-## Code Examples
+# Code Examples
 You can use BPFN for yourself like this:
 ```python
 import code
