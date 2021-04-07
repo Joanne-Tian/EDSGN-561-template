@@ -1,23 +1,26 @@
-![](https://th.bing.com/th/id/R5c529f24ae9c48a22d82e11e4dbae39e?rik=412E3CDcZrExRg&riu=http%3a%2f%2f4.bp.blogspot.com%2f-a2ADYMu0TSo%2fUZGYNURy4wI%2fAAAAAAAADdk%2fr8LUpQx3z1o%2fs1600%2fCute-puppies%2b(1).jpg&ehk=WmEC%2bK8ClniqR8cl5RhkLr5IKJ%2fYuCawugjScuMDKKg%3d&risl=&pid=ImgRaw)
-# This Project Helps Us Do Things
-asdfasdfasdf
+![](https://www.letuspublish.com/wp-content/uploads/2017/04/Cute-little-puppy-sleeping-in-basket-wallpaper.jpg)
 
-# Methodology
-BPFN uses algorithms and data.
+___Puppies are very cute___ [1]
 
-# Results
-Some really cool examples of what BPFN can do include the following:
+# This Project Helps Us Do/Learn X
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+# We Used Y Algorithm 
+![](https://i.pinimg.com/736x/08/b2/c7/08b2c7770fd35051cd397f4680c354e8--fun-meme-husky-humor.jpg)
+
+___Anatomy of a dog___ [2]
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+# We Learned that Z
+![](https://www.arizonastateultimate.com/wp-content/uploads/2019/10/dog-frisbee-1024x576.jpg)
+
+___Dog catching a frisbee___ [3]
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-# Code Examples
-You can use BPFN for yourself like this:
-```python
-import code
-code.do()
-```
-Or maybe like this:
-```python
-import code
-code.do_better()
-```
-
+# References
+1. asdf
+2. https://i.pinimg.com/736x/08/b2/c7/08b2c7770fd35051cd397f4680c354e8--fun-meme-husky-humor.jpg
+3. https://www.arizonastateultimate.com/wp-content/uploads/2019/10/dog-frisbee-1024x576.jpg
