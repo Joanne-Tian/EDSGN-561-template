@@ -2,7 +2,7 @@
 _Puppies are very cute_ [1]
 
 # Why Are Puppies So Cute?
-__This first section is similar to the abstract for your report.__ Try to keep it short an dtoo hte point, but do make sure that you motivate your project. To do so, follow the format shown in the [The Four Moves To Novelty](https://www.cmu.edu/gcc/handouts-and-resources/handouts/novelty-handout.pdf#:~:text=Establish%20Novelty%20With%20Four%20Rhetorical%20Moves%201%29%20Explain,4%29%20Fill%20that%20gap%20with%20the%20present%20research).
+__This first section is similar to the abstract for your report.__ Try to keep it short and too the point, but do make sure that you motivate the need for your project. To do so, follow the format shown in the [The Four Moves To Novelty](https://www.cmu.edu/gcc/handouts-and-resources/handouts/novelty-handout.pdf#:~:text=Establish%20Novelty%20With%20Four%20Rhetorical%20Moves%201%29%20Explain,4%29%20Fill%20that%20gap%20with%20the%20present%20research).
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -11,6 +11,15 @@ __A second section says a little bit about your methodology.__ Lorem ipsum dolor
 
 ![](https://images7.memedroid.com/images/UPLOADED185/563b5bffa94d6.jpeg)
 _Anatomy of a dog_ [2]
+
+If helpful, you can include some example code:
+```Python
+good_canine = []
+for pupper in litter:
+    pupper.measure_smol()
+    pupper.give_treat()
+    good_canine.append(pupper)
+```
 
 # We Learned That Puppies Are Cute Because They Are Smol
 __A third section talks about your results__. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
