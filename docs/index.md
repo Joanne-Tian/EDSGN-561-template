@@ -24,11 +24,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 _Smoller is correlated to cuter_ [4]
 
 # Takeaways
+__A final section summarizes big takeaways in a concise format__
 - Puppies are cute
 - Smoler = cuter
 - Future work should investigate how smol is too smol
 
 # References
+__Don't foget references!__
 1. https://www.letuspublish.com/wp-content/uploads/2017/04/Cute-little-puppy-sleeping-in-basket-wallpaper.jpg
 2. https://images7.memedroid.com/images/UPLOADED185/563b5bffa94d6.jpeg
 3. https://www.thelabradorsite.com/wp-content/uploads/2018/07/small-dog-breed-long.jpg
