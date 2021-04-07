@@ -2,6 +2,8 @@
 _Puppies are very cute_ [1]
 
 # Why Are Puppies So Cute?
+__This first section is similar to the abstract for your report.__ Try to keep it short an dtoo hte point, but do make sure that you motivate your project. To do so, follow the format shown in the [The Four Moves To Novelty](https://www.cmu.edu/gcc/handouts-and-resources/handouts/novelty-handout.pdf#:~:text=Establish%20Novelty%20With%20Four%20Rhetorical%20Moves%201%29%20Explain,4%29%20Fill%20that%20gap%20with%20the%20present%20research).
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # We Used Y Algorithm To Assess Puppy Cuteness
@@ -21,6 +23,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![](https://cdn.openupresources.org/uploads/pictures/7/7.8.C.17.Images.student.summary.01.png)
 _Smoller is correlated to cuter_ [4]
 
+# Takeaways
+- Puppies are cute
+- Smoler = cuter
+- Future work should investigate how smol is too smol
 
 # References
 1. https://www.letuspublish.com/wp-content/uploads/2017/04/Cute-little-puppy-sleeping-in-basket-wallpaper.jpg
