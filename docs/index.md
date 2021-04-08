@@ -6,7 +6,7 @@ description: Chris McComb (<a href="uum209@psu.edu">uum209@psu.edu</a>)
 _Puppies are very cute_ [1]
 
 # Why Are Puppies So Cute?
-__This first section is similar to the abstract for your report.__ Try to keep it short and too the point, but do make sure that you motivate the need for your project. To do so, follow the format shown in the [The Four Moves To Novelty](https://www.cmu.edu/gcc/handouts-and-resources/handouts/novelty-handout.pdf#:~:text=Establish%20Novelty%20With%20Four%20Rhetorical%20Moves%201%29%20Explain,4%29%20Fill%20that%20gap%20with%20the%20present%20research).
+__This first section is similar to the abstract for your report.__ Try to keep it short and to the point, but do make sure that you motivate the need for your project. To do so, follow the format shown in the [The Four Moves To Novelty](https://www.cmu.edu/gcc/handouts-and-resources/handouts/novelty-handout.pdf#:~:text=Establish%20Novelty%20With%20Four%20Rhetorical%20Moves%201%29%20Explain,4%29%20Fill%20that%20gap%20with%20the%20present%20research).
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
