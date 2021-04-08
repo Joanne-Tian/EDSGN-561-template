@@ -1,3 +1,7 @@
+---
+layout: page
+title: Puppies Are Cute
+---
 ![](https://www.letuspublish.com/wp-content/uploads/2017/04/Cute-little-puppy-sleeping-in-basket-wallpaper.jpg)
 _Puppies are very cute_ [1]
 
